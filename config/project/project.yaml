@@ -1,0 +1,24 @@
+dateModified: 1671483334
+email:
+  fromEmail: housseinouedraogo@yahoo.com
+  fromName: nft-preview-card-component
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7dd7c916-7aec-40b8-b33c-b44cc22cfe48: nft-preview-card-component # nft-preview-card-component
+    8b9a6ad0-16a7-438d-aff8-c5d1727da430: Common # Common
+    092b5120-d394-41f1-ad7e-a98d406a5a34: Home
+    95eb0310-c396-428e-b23a-bb3824ea2945: Home
+    b0e4891c-3cd9-4ce0-83b1-86d740874f0e: nft-preview-card-component # nft-preview-card-component
+system:
+  edition: solo
+  live: true
+  name: nft-preview-card-component
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

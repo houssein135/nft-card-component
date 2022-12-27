@@ -1,0 +1,30 @@
+{% extends 'index' %}
+
+{% block body %}
+    <div class="card">
+        <div class="nft_img">
+            <img class="image" src="{{ siteUrl }}images/image-equilibrium.jpg"/>
+            <div>
+              <img class="view" src="{{ siteUrl }}images/icon-view.svg"/>
+            </div>
+        </div>
+        <h3>Equilibrium #3429</h3>
+        <p class="nft_description">
+            Our Equilibrium collection promotes balance and calm.
+        </p>
+        <div class="nft_price_delay">
+            <div class="nft_price">
+                <img src="{{ siteUrl }}images/icon-ethereum.svg"/>
+                0.041 ETH
+            </div>
+            <div class="nft_delay">
+                <img src="{{ siteUrl }}images/icon-clock.svg"/>
+                3 days left
+            </div>
+        </div>
+        <div class="nft_author">
+            <img src="{{ siteUrl }}images/image-avatar.png"/>
+            Creation of <span>Jules Wyvern</span>
+        </div>
+    </div>
+{% endblock %}

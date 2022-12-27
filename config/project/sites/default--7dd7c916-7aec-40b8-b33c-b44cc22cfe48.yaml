@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: nft-preview-card-component
+primary: true
+siteGroup: b0e4891c-3cd9-4ce0-83b1-86d740874f0e # nft-preview-card-component
+sortOrder: 1
